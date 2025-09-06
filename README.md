@@ -1,6 +1,7 @@
 # Read Me First
 ## Description
 * This is a playable Blackjack game wriiten in Python. This application can be played through terminal or GUI.
+* GUI was built using Tkinter.
 
 # Blackjack
   <img width="900" alt="Screenshot 2025-09-04 at 5 58 55 PM" src="https://github.com/user-attachments/assets/5f99237f-c74c-4101-a0c1-63d45ed75b62" />
